@@ -1,2 +1,2 @@
 # stepik-3.1-final
-Another one repository
+Здесь находится решение к последнему шагу из блока 2.3, ссылка на этот шаг https://stepik.org/lesson/184253/step/6?unit=158843
